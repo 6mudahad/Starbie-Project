@@ -1,6 +1,8 @@
 # Starbie-Project
 This is a project for Half Life/Hack Club
+
 9/10/2026
+
 Today was my first day at the Half Life Hack Club, and I worked on my Starbie project using KiCad for 8 hours. Since there were only 2 days left to complete the project, I needed to spend a full 8 hours on it to stay on track. Despite the time constraint, I had a really good time working on it, and the entire process was really fun.
 
 I began by downloading the Care Package files from the guide and installing the required symbol and footprint libraries. After completing the setup, I opened the Schematic Editor to place all the components. I selected the XIAO ESP32 C3 as the main microcontroller, added power symbols for +5V, +3.3V, and GND, and used net labels to establish connections cleanly. Next, I added two push buttons connected to GPI02 and GPI03, along with pin headers for the display screen, an MPU6050 motion sensor, and a DHT11 temperature and humidity sensor.   
