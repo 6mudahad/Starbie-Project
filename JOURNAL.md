@@ -10,6 +10,4 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0h | 0 |
-
-_No entries logged yet._
+| Week 1 | Tier 1 | 6h | 2 |
